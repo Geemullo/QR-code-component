@@ -47,4 +47,4 @@ in this project I was able to reinforce learning about flexbox, which was my cho
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Geemullo)
+- Frontend Mentor - [Victor](https://www.frontendmentor.io/profile/Geemullo)
